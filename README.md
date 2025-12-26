@@ -21,6 +21,11 @@ This extension uses smart field detection to identify common job application inp
 3. Click the **"Autofill Form"** button.
 4. The extension will automatically populate the detected fields and show an alert with the total count.
 
+## 📺 Demo Video
+Click the preview below to see the Autofill Extension in action!
+https://github.com/user-attachments/assets/f08c7f0f-e6ab-4a35-8a36-1814413022dd
+
+
 ## 💻 Tech Stack
 
 - **JavaScript (ES6+)**: Core logic and DOM manipulation.
