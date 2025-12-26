@@ -1,6 +1,6 @@
-# Zobsai Job Application Autofill Extension
+# Autofill Chrome Extension
 
-A Chrome Extension (Manifest V3) built for the Zobsai Developer Intern assignment. It helps users save time by automatically filling standard job application fields with a single click.
+A simple Chrome extension for autofilling any forms with a single click.
 
 ## 🌟 Overview
 
